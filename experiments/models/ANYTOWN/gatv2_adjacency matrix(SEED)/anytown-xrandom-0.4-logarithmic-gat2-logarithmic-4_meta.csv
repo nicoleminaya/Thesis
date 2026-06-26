@@ -1,0 +1,7 @@
+db,doe_pumpfed_1
+deploy,xrandom
+obsrat,0.4
+adj,logarithmic
+epoch,500
+batch,64
+lr,0.0003

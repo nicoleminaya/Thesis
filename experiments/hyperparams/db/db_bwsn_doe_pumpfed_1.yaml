@@ -1,0 +1,17 @@
+wds: bwsn
+nScenes: 5000
+genAlgo: doe
+
+chunks:
+    height: 10000
+    width: null
+
+demand:
+    nodalLo: 0.7
+    nodalHi: 1.0
+    totalLo: 0.3
+    totalHi: 1.0
+
+data:
+    vldSplit: 0.2
+    tstSplit: 0.2

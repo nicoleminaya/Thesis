@@ -1,0 +1,7 @@
+db,doe_pumpfed_1
+deploy,gena
+obsrat,0.05
+adj,binary
+epoch,500
+batch,64
+lr,0.00067

@@ -1,0 +1,3 @@
+Para cheb1 y cheb2 sí utlicé el node_metrics, pero no para gat.
+Tuve que cambiar en Taylor_metrics_gat2 y Taylor_metrics_gat2, para encajar con las columnas
+y poder utilizar finalmente [N]plot_Taylor_diag_gat2.py

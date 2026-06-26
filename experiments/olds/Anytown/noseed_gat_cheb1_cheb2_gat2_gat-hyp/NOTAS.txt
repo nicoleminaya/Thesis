@@ -1,0 +1,1 @@
+Copie los Taylor metrics respectivos en el general y asi también los taylor_metrics_processed

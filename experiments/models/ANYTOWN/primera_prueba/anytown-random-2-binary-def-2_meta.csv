@@ -1,0 +1,7 @@
+db,doe_pumpfed_1
+deploy,random
+budget,2
+adj,binary
+epoch,600
+batch,200
+lr,0.0003

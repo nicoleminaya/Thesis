@@ -1,0 +1,28 @@
+name: graco
+channels:
+  - pytorch
+  - pyg
+  - conda-forge
+dependencies:
+  - python
+  - pytorch
+  - torchvision
+  - torchaudio
+  - numpy
+  - pyg
+  - cpuonly
+  - dask
+  - jupyter
+  - networkx
+  - matplotlib
+  - pandas
+  - pip
+  - pyyaml
+  - wheel
+  - zarr
+  - pip:
+    - epynet
+    - optuna
+    - pyDOE2
+    - ray
+    - torchinfo

@@ -1,0 +1,1 @@
+en plot_taylor_diag_gat2.py tuve que comentar gat_hyp para poner gat2_weig_gat_log
