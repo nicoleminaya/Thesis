@@ -117,7 +117,7 @@ for run_id in run_ids:
     sensor_nodes = np.loadtxt(pathToSens, dtype=np.int32)
     sensor_shop.set_sensor_nodes(sensor_nodes)
 
-    # 2. Pass the exact signal_mask to the DataReader (no seed, no obsrat!)
+    # 2. Pass the exact signal_mask to the DataReader
     reader  = DataReader(
         pathToDB, 
         n_junc=len(wds.junctions.uid), 

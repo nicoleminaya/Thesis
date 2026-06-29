@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\evaluation"
+    "\\experiments",
+    "\\experiments\\hyperparams",
+    "\\experiments\\hyperparams\\db"
   ],
-  "SelectedNode": "\\evaluation\\plot_computation_time.py",
+  "SelectedNode": "\\test_relative_error.py",
   "PreviewInSolutionExplorer": false
 }
